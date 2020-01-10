@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1,כאן 11
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/kan11.png",כאן 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1,קשת 12
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/keshet12.png",קשת 12
 https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/Cq0EOtJojnhVCEQY_F5c2uRLlE-Vacq1GKfZpWinyTSm2OjJo8eml7VJy7QJUts-K59qfrKxelJVdsmUERGDxtE1fGYqnfSMp93RLlsyIP9DxfWhUVp_gG2s8a_tiB5zN0PvgNBAjYfOZhDEE3Wzz0VEZ4ifvKl6M49TRBdcEL4Sqe8QYZOrpqi-aiuumQA9TJhCntTo65ydzbFY9DC6MRr1XC-JPNQbB4QreSQfz5oFCIIS5y4SyewMDG0bfAqpTLsLEl5p2MVyMniH961IER6v0-EFrFsUw88jvyLAEbJ1PffgxW0pa-WaqC_XeaemSJuYUCdSbry78jl3kMSXZ0dYjJqjnTPzuWCRaNYFSrRQm_y5oHWBix3HvoOBeF4mZp1bgYPz-7qMQHA8LkkQUWhDu2RXKWr6flRPtsFO3GPxBKLd0yKQEVxOtJmi0b5SpA7biPmA-eARnuNGlxWfwNKmDxAWD3nOAo5Py9VbxDVFLhyVln5tujmpTpvkDFTDSBO5oBQGGVMSHTeEbA2Bx7t6uYhty7bJc3zOYmgZ_3bIOwSky_3ibnpwhE5RAo6zeUdpHhQJ6TyuEbDKA0EoQsxv8yc4diZ_w2TUb2sxa0d9Lf2GndFj2FV5xa9MbSJm6BiDuF1J8qg-XWtUTCwryELIf2ah3aV6hhGlLuXE9FS14uQueEA-vFZxiBCjlYH0UwcRAnOgT0nxaug4_O1faAyNr06D19CEofTHe09NNCASEHSXI8xL2eOPnxzG1swKpTkaDAEJNI5kvHtqSBFqzA.m3u8
-#EXTINF:-1,רשת 13
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/reshet13.png",רשת 13
 https://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13_2400.m3u8
-#EXTINF:-1,חינוכית 23
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/kanedu-icon-final_2.png",חינוכית 23
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1,כאן 33
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/kan33.png",כאן 33
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1, ספורט 5
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/sport.jpg", ספורט 5
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
-#EXTINF:-1, ספורט 5 פלוס
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/sportplus.png", ספורט 5 פלוס
 http://ce01.spanel.xyz:8088/live/yn005/playlist.m3u8?id=35812&wowzasessionid=3520728625&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
-#EXTINF:-1, ONE
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/onesport.jpg", ONE
 http://ce01.spanel.xyz:8088/live/yn002/playlist.m3u8?id=35809&wowzasessionid=3792223380&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
-#EXTINF:-1, ONE 2
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/one2.png", ONE 2
 http://ce01.spanel.xyz:8088/live/yn003/playlist.m3u8?id=35810&wowzasessionid=3548121276&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
-#EXTINF:-1,ספורט 1
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/sport1hd.png",ספורט 1
 http://ce01.spanel.xyz:8088/live/yn001/playlist.m3u8?id=35808&wowzasessionid=3962884094&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
-#EXTINF:-1,BBC Two
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/bbc2.jpg",BBC Two
 https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NatGeo
+#EXTINF:-1 logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/national_geographic_live_stream.jpg",NatGeo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
