@@ -22,4 +22,4 @@ http://ce01.spanel.xyz:8088/live/yn001/playlist.m3u8?id=35808&wowzasessionid=396
 #EXTINF:-1,BBC Two
 https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NatGeo
-https://fathomless-cliffs-85079.herokuapp.com/http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
