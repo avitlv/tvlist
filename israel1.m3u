@@ -9,5 +9,7 @@ https://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13_2400.m3u8
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
 #EXTINF:-1, ספורט 5 פלוס
 http://ce01.spanel.xyz:8088/live/yn005/playlist.m3u8?id=35812&wowzasessionid=3520728625&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
-
-
+#EXTINF:-1, ONE
+http://ce01.spanel.xyz:8088/live/yn002/playlist.m3u8?id=35809&wowzasessionid=3792223380&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
+#EXTINF:-1, ONE 2
+http://ce01.spanel.xyz:8088/live/yn003/playlist.m3u8?id=35810&wowzasessionid=3548121276&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
