@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTGRP:Main
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/kan11.png",כאן 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/keshet12.png",קשת 12
@@ -23,3 +24,89 @@ http://ce01.spanel.xyz:8088/live/yn001/playlist.m3u8?id=35808&wowzasessionid=396
 https://streamingserver002.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/national_geographic_live_stream.jpg",NatGeo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTGRP:Test Channels
+#EXTINF:-1,yes: 1 HD
+http://tv2iptv.com:8000/badr/badr1234/60504
+#EXTINF:-1,yes: 2 HD
+http://tv2iptv.com:8000/badr/badr1234/60503
+#EXTINF:-1,yes: 3 HD
+http://tv2iptv.com:8000/badr/badr1234/60502
+#EXTINF:-1,yes: 4 HD
+http://tv2iptv.com:8000/badr/badr1234/60501
+#EXTINF:-1,yes: 5 GOLD
+http://tv2iptv.com:8000/badr/badr1234/60507
+#EXTINF:-1,yes: 5 HD
+http://tv2iptv.com:8000/badr/badr1234/60500
+#EXTINF:-1,yes: 5 LIVE
+http://tv2iptv.com:8000/badr/badr1234/60510
+#EXTINF:-1,yes: 5 PLUS
+http://tv2iptv.com:8000/badr/badr1234/60509
+#EXTINF:-1,yes: 5 STARS
+http://tv2iptv.com:8000/badr/badr1234/60508
+#EXTINF:-1,yes: Action HD
+http://tv2iptv.com:8000/badr/badr1234/60499
+#EXTINF:-1,yes: Baby
+http://tv2iptv.com:8000/badr/badr1234/60498
+#EXTINF:-1,yes: Channel 11 Kan
+http://tv2iptv.com:8000/badr/badr1234/60476
+#EXTINF:-1,yes: Channel 12 Keshet
+http://tv2iptv.com:8000/badr/badr1234/60486
+#EXTINF:-1,yes: Channel 13 Reshet
+http://tv2iptv.com:8000/badr/badr1234/60481
+#EXTINF:-1,yes: Channel 2
+http://tv2iptv.com:8000/badr/badr1234/60485
+#EXTINF:-1,yes: Channel 20
+http://tv2iptv.com:8000/badr/badr1234/60484
+#EXTINF:-1,yes: Channel 66
+http://tv2iptv.com:8000/badr/badr1234/60483
+#EXTINF:-1,yes: Channel 9
+http://tv2iptv.com:8000/badr/badr1234/60482
+#EXTINF:-1,yes: Comedy HD
+http://tv2iptv.com:8000/badr/badr1234/60497
+#EXTINF:-1,yes: Discovery
+http://tv2iptv.com:8000/badr/badr1234/60496
+#EXTINF:-1,yes: ZOOM
+http://tv2iptv.com:8000/badr/badr1234/60495
+#EXTINF:-1,yes: Drama HD
+http://tv2iptv.com:8000/badr/badr1234/60494
+#EXTINF:-1,yes: EDGE HD
+http://tv2iptv.com:8000/badr/badr1234/60493
+#EXTINF:-1,yes: Food
+http://tv2iptv.com:8000/badr/badr1234/60492
+#EXTINF:-1,yes: Hala Tv
+http://tv2iptv.com:8000/badr/badr1234/60480
+#EXTINF:-1,yes: History
+http://tv2iptv.com:8000/badr/badr1234/60491
+#EXTINF:-1,yes: Yam Tihoni
+http://tv2iptv.com:8000/badr/badr1234/60479
+#EXTINF:-1,yes: Kan 23
+http://tv2iptv.com:8000/badr/badr1234/60477
+#EXTINF:-1,yes: Knesest Tv
+http://tv2iptv.com:8000/badr/badr1234/60475
+#EXTINF:-1,yes: LifeTime
+http://tv2iptv.com:8000/badr/badr1234/60490
+#EXTINF:-1,yes: Makan33
+http://tv2iptv.com:8000/badr/badr1234/60474
+#EXTINF:-1,yes: Music 24
+http://tv2iptv.com:8000/badr/badr1234/60489
+#EXTINF:-1,yes: ONE
+http://tv2iptv.com:8000/badr/badr1234/60506
+#EXTINF:-1,yes: ONE 2
+http://tv2iptv.com:8000/badr/badr1234/60505
+#EXTINF:-1,yes: Shopping
+http://tv2iptv.com:8000/badr/badr1234/60473
+#EXTINF:-1,yes: Sport 1
+http://tv2iptv.com:8000/badr/badr1234/60515
+#EXTINF:-1,yes: Sport 2
+http://tv2iptv.com:8000/badr/badr1234/60514
+#EXTINF:-1,yes: Sport 3
+http://tv2iptv.com:8000/badr/badr1234/60513
+#EXTINF:-1,yes: Sport 4
+http://tv2iptv.com:8000/badr/badr1234/60512
+#EXTINF:-1,yes: Sport 5
+http://tv2iptv.com:8000/badr/badr1234/60511
+#EXTINF:-1,yes: Travel
+http://tv2iptv.com:8000/badr/badr1234/60488
+#EXTINF:-1,yes: Viva
+http://tv2iptv.com:8000/badr/badr1234/60487
+
