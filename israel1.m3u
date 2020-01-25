@@ -17,7 +17,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunkl
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/sport.jpg", ספורט 5
 #EXTGRP:Israel
-https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
+http://ce04.spanel.xyz:8088/live/yn003/playlist.m3u8?id=35810&wowzasessionid=3044112821&pk=1172f7f16795eeb31addf24725c92ad948ef21c3f0816d094fc110fba7eccb46
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/avitlv/tvlist/master/logos/sportplus.png", ספורט 5 פלוס
 #EXTGRP:Israel
 http://ce01.spanel.xyz:8088/live/yn005/playlist.m3u8?id=35812&wowzasessionid=3520728625&pk=c7c38e045b8cfd15f6ade13eac69fdfa41801d7b73c5f6131e2899f6923bde7b
